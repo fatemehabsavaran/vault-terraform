@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vault-terraform
 =======
 # Vault User & Policy Management with Tofu
@@ -91,4 +90,3 @@ terraform apply -var-file=environments/beta.tfvars
 > Replace `beta.tfvars` with `prod.tfvars` to apply changes in the production environment.
 
 
->>>>>>> 355b520 (init commit)
