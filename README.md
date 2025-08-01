@@ -1,7 +1,4 @@
-# vault-terraform
-=======
-# Vault User & Policy Management with Tofu
-
+# Vault User & Policy Management with Terraform
 This project uses [Terraform](https://developer.hashicorp.com/terraform) to manage users and policies in HashiCorp Vault across multiple environments (`beta`, `prod`).
 
 ## 🗂 Project Structure
