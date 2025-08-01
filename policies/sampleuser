@@ -1,0 +1,3 @@
+path "sampledb/creds/sampledb-dev" {
+  capabilities = ["read"]
+}
